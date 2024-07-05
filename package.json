@@ -1,0 +1,31 @@
+{
+  "name": "schema.jsmodel",
+  "version": "1.0.0",
+  "description": "generate javascript es6 classes from schemas",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marchuanv/schema.jsmodel.git"
+  },
+  "keywords": [
+    "schema",
+    "javascript",
+    "es6",
+    "models"
+  ],
+  "author": "Marchuan Van Der Merwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marchuanv/schema.jsmodel/issues"
+  },
+  "homepage": "https://github.com/marchuanv/schema.jsmodel#readme",
+  "dependencies": {
+    "@hyperjump/json-schema": "^1.9.3",
+    "@hyperjump/json-schema-core": "^0.28.5",
+    "jasmine": "^5.1.0"
+  }
+}
