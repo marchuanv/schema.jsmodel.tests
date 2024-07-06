@@ -1,7 +1,7 @@
 {
-  "name": "schema.jsmodel",
+  "name": "schema.jsmodel.tests",
   "version": "1.0.0",
-  "description": "generate javascript es6 classes from schemas",
+  "description": "specification tests for schema.jsmodel",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -9,25 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marchuanv/schema.jsmodel.git"
+    "url": "git+https://github.com/marchuanv/schema.jsmodel.tests.git"
   },
   "keywords": [
+    "specification",
+    "specs",
     "schema",
-    "javascript",
-    "es6",
-    "models"
+    "jsmodel"
   ],
   "author": "Marchuan Van Der Merwe",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marchuanv/schema.jsmodel/issues"
+    "url": "https://github.com/marchuanv/schema.jsmodel.tests/issues"
   },
-  "homepage": "https://github.com/marchuanv/schema.jsmodel#readme",
+  "homepage": "https://github.com/marchuanv/schema.jsmodel.tests#readme",
   "dependencies": {
-    "@hyperjump/json-schema": "^1.9.3",
-    "@hyperjump/json-schema-core": "^0.28.5",
-    "camelcase": "^8.0.0",
     "jasmine": "^5.1.0",
-    "js-sha1": "^0.7.0"
+    "schema.jsmodel": "github:marchuanv/schema.jsmodel"
   }
 }
