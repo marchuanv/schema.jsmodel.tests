@@ -26,6 +26,8 @@
   "dependencies": {
     "@hyperjump/json-schema": "^1.9.3",
     "@hyperjump/json-schema-core": "^0.28.5",
-    "jasmine": "^5.1.0"
+    "camelcase": "^8.0.0",
+    "jasmine": "^5.1.0",
+    "js-sha1": "^0.7.0"
   }
 }

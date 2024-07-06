@@ -1,0 +1,1 @@
+export { {{modelClassName}} } from './{{modelClassFileName}}';

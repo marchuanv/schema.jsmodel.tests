@@ -1,0 +1,1 @@
+import { {{modelClassName}} } from './{{modelClassFileName}}';
