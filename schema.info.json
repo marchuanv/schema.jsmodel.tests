@@ -1,0 +1,5 @@
+{
+    "complexSchema": {
+        "jsonSchemaFilePath": "./spec/schemas/complex.schema.json"
+    }
+}
